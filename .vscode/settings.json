@@ -1,0 +1,9 @@
+{
+	"i18n-ally.localesPaths": [
+		"system/language",
+		"application/language",
+		"assets/plugins/moment/locale",
+		"application/third_party/PHPMailer/language",
+		"assets/plugins/select2/js/i18n"
+	]
+}
